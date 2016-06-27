@@ -1,0 +1,16 @@
+[
+{
+  "modid": "EM",
+  "name": "EM",
+  "description": "EM!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WaterBamboo@FD"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
